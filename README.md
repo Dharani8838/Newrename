@@ -1,3 +1,7 @@
+<a href="https://render.com/deploy?repo=https://github.com/Dharani8838/Newrename">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+
 <img src="https://telegra.ph/file/9936c273582628afb098c.png" alt="logo" target="/blank">
 
 <h1 align="center">
