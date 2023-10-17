@@ -5,7 +5,7 @@ services:
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python3 bot.py
-    repo:https://github.com/Dharani8838/Newrename.git       
+    repo: https://github.com/Dharani8838/Newrename.git       
     branch: main
     envVars:
       - key: BOT_TOKEN 
